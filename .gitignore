@@ -11,3 +11,6 @@ testing
 *.iml
 .idea
 
+
+# 项目排除路径
+/.gradle/
